@@ -1,0 +1,12 @@
+Initial Working of App.js
+App.js is the main file in express framework. 
+    It has dependencies, routers, configure settings, starts servers, connect to database, etc.
+
+App.js:     '/' -> Router -> index.js {index.ejs | title=""express"} -> index.ejs is displayed
+App.js:     '/users' -> Router -> users.js {responds directly to the page with the message}
+
+Creating New page
+1. create a page[login.js] in router folder 
+2. add this link in app.js
+
+App.js:     '/login' -> Router -> login.js {responds directly to the browser}
