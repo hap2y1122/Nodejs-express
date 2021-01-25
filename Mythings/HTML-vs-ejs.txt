@@ -1,0 +1,2 @@
+This you can open any ejs file & see the difference.
+views > index.ejs

@@ -1,0 +1,3 @@
+Templating engines are engines that abstracts the HTML details.
+Jade, ejs & handlebars are some templating engines.
+These engines basically helps in creating HTML pages but in its own way.

@@ -1,0 +1,4 @@
+npm install express-generator <Install express on system :Error use -g>
+express -e -f <Error visit Imp.png>
+npm install <Install other dependencies>
+npm start   <Initializes the project>
